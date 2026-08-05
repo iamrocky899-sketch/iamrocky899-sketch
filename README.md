@@ -296,7 +296,9 @@ A privacy-focused AI play and learning application for children.
 
 # 🐍 Contribution Snake
 
-> Enable this after creating the GitHub Action workflow for snake generation.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamrocky899-sketch/iamrocky899-sketch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamrocky899-sketch/iamrocky899-sketch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>

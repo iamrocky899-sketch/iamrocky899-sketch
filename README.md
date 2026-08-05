@@ -288,10 +288,10 @@ A privacy-focused AI play and learning application for children.
 ---
 
 # 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrocky899-sketch&theme=tokyo-night&hide_border=true" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrocky899-sketch&theme=github-dark&hide_border=true" />
+</p>
 ---
 
 # 🐍 Contribution Snake
